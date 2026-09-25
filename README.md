@@ -8,7 +8,7 @@ A medida que avance en el curso, iré subiendo aquí las resoluciones de cada ac
 
 | Tema | Archivo | Descripción |
 |------|---------|-------------|
-| Conjuntos | `conjuntos.py` | Unión, intersección, diferencia simétrica, subconjuntos y cantidad de elementos |
+| Conjuntos | `tarea1.py` | Unión, intersección, diferencia simétrica, subconjuntos y cantidad de elementos |
 
 *(La tabla se irá actualizando con cada nueva tarea.)*
 
