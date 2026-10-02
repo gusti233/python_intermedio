@@ -9,6 +9,7 @@ A medida que avance en el curso, iré subiendo aquí las resoluciones de cada ac
 | Tema | Archivo | Descripción |
 |------|---------|-------------|
 | Conjuntos | `tarea1.py` | Unión, intersección, diferencia simétrica, subconjuntos y cantidad de elementos |
+| Manejo de Excepciones | `tarea2.py` | Captura de errores (`ZeroDivisionError`, `TypeError`, `KeyError`, `FileNotFoundError`, `ValueError`) |
 
 *(La tabla se irá actualizando con cada nueva tarea.)*
 
@@ -17,11 +18,6 @@ A medida que avance en el curso, iré subiendo aquí las resoluciones de cada ac
 Se necesita tener **Python 3** instalado.
 
 ```bash
-git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git
+git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git)
 cd NOMBRE_DEL_REPO
-python conjuntos.py
-```
-
-## 👤 Autor
-
-**Tomas Alfonso Suarez Zeniquel**
+python tarea2.py  # Reemplazar con el nombre del archivo de la tarea que desees probar
